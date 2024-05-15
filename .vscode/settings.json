@@ -1,0 +1,6 @@
+{
+  "yaml.schemas": {
+    "kubermnetes": "*.yaml",
+    "https://json.schemastore.org/yamllint.json": "file:///Users/panda/Documents/Projects/ci_cd/pokedex-for-ci/firstwork.yml"
+  }
+}
